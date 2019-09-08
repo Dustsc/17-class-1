@@ -1,7 +1,0 @@
-package computer;
-
-public class A {
-	static int rong;
-	 static double money;
-	 static double cheng;
-}
